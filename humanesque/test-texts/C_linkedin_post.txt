@@ -1,0 +1,9 @@
+4,312 files in my Downloads folder. That was Saturday morning's count.
+
+So I wrote the dumbest useful script of my year. Forty lines of Python. It watches Downloads and moves things where they belong - PDFs to Documents, screenshots to a dated folder, installers to a quarantine I empty monthly.
+
+Two hours to write. Half of that was a fight with macOS file events firing twice (if you know, you know).
+
+Fourteen days later the folder is empty and I've stopped thinking about it. Which turned out to be the real win. Not the minutes saved - the attention.
+
+Anyway. If your Downloads folder is currently a landfill, consider this your sign.

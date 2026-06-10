@@ -1,0 +1,16 @@
+I finally got tired of my Downloads folder being a digital junk drawer — so I did something about it. 🗂️
+
+Over the weekend, I built a small script that automatically sorts every new download into the right folder: PDFs to Documents, screenshots to Images, installers to a quarantine folder I actually review.
+
+It's not groundbreaking. It's not going to change the world. But here's the thing — it's been running for two weeks now, and I haven't manually moved a single file since.
+
+A few things this little project reminded me of:
+- The best automation isn't flashy; it's invisible
+- Small friction, removed daily, compounds into real time saved
+- You don't need permission (or a product manager) to fix your own workflow
+
+Sometimes the most satisfying code you'll write all month is 40 lines that nobody else will ever see.
+
+What's the smallest script that's made the biggest difference in your day-to-day? Would love to hear what others have built. 👇
+
+#automation #productivity #coding #sideprojects

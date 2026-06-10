@@ -1,0 +1,19 @@
+Subject: Quick Update on the Q3 Dashboard Timeline
+
+Hi team,
+
+I wanted to give you a heads-up on where things stand with the Q3 dashboard project. After digging into the API migration this week, it's become clear that we'll need an additional two weeks to deliver something we're truly confident in.
+
+Here's the short version: the migration touches more endpoints than we initially scoped, and rushing it would risk data integrity issues down the line — something none of us wants. Rather than cutting corners, we're taking the time to do it right.
+
+What this means for you:
+- The new delivery target is the week of July 21st
+- All other workstreams remain on track
+- I'll share a revised milestone plan by Friday
+
+I know timeline shifts are never ideal, and I appreciate your patience and flexibility here. The good news is that the extra runway means a more stable, more reliable dashboard for everyone.
+
+As always, my door is open if you have questions or concerns.
+
+Best,
+Karthik

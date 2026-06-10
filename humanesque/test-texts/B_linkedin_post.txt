@@ -1,0 +1,7 @@
+My Downloads folder had 4,300 files in it. Last weekend I finally wrote a script to deal with that.
+
+It watches for new downloads and files them: PDFs into Documents, screenshots into Images, installers into a folder I empty once a month. About 40 lines of Python. Took two hours, most of which was me arguing with file-watcher edge cases.
+
+Two weeks in, I haven't manually moved a file once. What surprised me is how much low-grade attention that one messy folder was costing me — I'd scan it every time I needed anything.
+
+If you've got a small script like this quietly running somewhere, I'd like to hear what it does.

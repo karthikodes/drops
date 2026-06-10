@@ -1,0 +1,28 @@
+detector,variant,text,ai_probability_pct,notes
+quillbot,A,email_delay,,error; retry_after_error; TimeoutError: Page.wait_for_function: Timeout 60000ms exceeded.
+quillbot,A,linkedin_post,0,clipboard_paste
+quillbot,A,readme_update,22,clipboard_paste
+quillbot,B,email_delay,,error; retry_after_error; TimeoutError: Page.wait_for_function: Timeout 60000ms exceeded.
+quillbot,B,linkedin_post,0,clipboard_paste
+quillbot,B,readme_update,0,clipboard_paste
+quillbot,C,email_delay,,error; retry_after_error; TimeoutError: Page.wait_for_function: Timeout 60000ms exceeded.
+quillbot,C,linkedin_post,0,clipboard_paste
+quillbot,C,readme_update,0,clipboard_paste
+sapling,A,email_delay,12.1,
+sapling,A,linkedin_post,0.0,
+sapling,A,readme_update,99.5,
+sapling,B,email_delay,1.6,
+sapling,B,linkedin_post,0.0,
+sapling,B,readme_update,100.0,
+sapling,C,email_delay,0.0,
+sapling,C,linkedin_post,0.0,
+sapling,C,readme_update,0.1,
+zerogpt,A,email_delay,95.2,
+zerogpt,A,linkedin_post,58.1,
+zerogpt,A,readme_update,25.9,
+zerogpt,B,email_delay,21.8,
+zerogpt,B,linkedin_post,10.5,
+zerogpt,B,readme_update,0,
+zerogpt,C,email_delay,0,retry_after_error
+zerogpt,C,linkedin_post,0,
+zerogpt,C,readme_update,0,

@@ -1,0 +1,13 @@
+Subject: Q3 dashboard — new date
+
+Hi team,
+
+The Q3 dashboard is going to land two weeks late. New target: week of July 21.
+
+The API migration is the reason. We scoped it at six endpoints, but eleven are affected, and three of them touch billing data. Rushing that part risks corrupting records we'd spend far longer repairing.
+
+Everything else stays on schedule, and I'll send a revised milestone plan on Friday.
+
+If the new date creates a problem for your work, tell me this week so we can sort it out early.
+
+Karthik

@@ -1,0 +1,13 @@
+Subject: Dashboard slips two weeks — new date July 21
+
+Team,
+
+Short version: the Q3 dashboard moves to the week of July 21.
+
+Longer version. We scoped the API migration at six endpoints. It actually touches eleven, and three of those write to billing. I'm not rushing code that can corrupt invoices to save two weeks.
+
+Nothing else moves. Revised plan lands Friday.
+
+If the slip breaks something on your side, come find me this week, not in July.
+
+Karthik
