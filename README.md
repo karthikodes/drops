@@ -9,5 +9,6 @@ Free, no-hype drops from [@karthikodes](https://instagram.com/karthikodes) reels
 | [humanesque](./humanesque) | **HUMAN** | Make Claude sound human — the rebuilt Humanizer skill + all 27 detector screenshots |
 | [route](./route) | **ROUTE** | The AI routing table + the copy-paste setup prompt + the superpowers-codex skill ($200 vs $60K reel) |
 | [stack](./stack) | **STACK** | Get Mythos-level output after the Fable 5 ban — the brain+hands two-model setup + superpowers-codex skill + honest multi-agent benchmarks |
+| [fusion](./fusion) | **FUSION** | OpenRouter's paid Fusion API, rebuilt free on your subscriptions — the fusion-local skill + the honest $0-vs-$6 head-to-head receipts |
 
 Everything here is verifiable — sources linked inside each drop. No magic prompts, no 10x. — *AI Without The Hype*
