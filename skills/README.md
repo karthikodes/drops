@@ -4,7 +4,8 @@ You commented **SKILLS**. Here are all 25 from the reel, with the link, what eac
 
 I checked 59 skills on GitHub on 28 September 2026 and kept the ones that are real, recently updated and install cleanly. Star counts and "updated" dates are from that day. Nothing here is paid, and no link is an affiliate link.
 
-- **Top 3:** [Proposal Builder](#1-proposal-builder), [the Excel, Word, PowerPoint and PDF skills](#2-excel-word-powerpoint-and-pdf), [Humanizer](#3-humanizer)
+- **Most starred, as in the reel:** [Superpowers](#19-superpowers) (292K stars), [Grill Me](#11-grill-me) (271K), [Anthropic's Excel, Word, PowerPoint and PDF skills](#2-excel-word-powerpoint-and-pdf) (179K), [Humanizer](#3-humanizer) (52K)
+- **Top 3 for most people:** [Proposal Builder](#1-proposal-builder), [the Excel, Word, PowerPoint and PDF skills](#2-excel-word-powerpoint-and-pdf), [Humanizer](#3-humanizer)
 - **Get paid:** 1, 4, 5, 6, 7
 - **Office work and writing:** 2, 3, 8, 9, 25
 - **Think it through:** 10, 11, 12
