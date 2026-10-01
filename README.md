@@ -12,5 +12,6 @@ Free, no-hype drops from [@karthikodes](https://instagram.com/karthikodes) reels
 | [fusion](./fusion) | **FUSION** | OpenRouter's paid Fusion API, rebuilt free on your subscriptions — the fusion-local skill + the honest $0-vs-$6 head-to-head receipts |
 | [skills](./skills) | **SKILLS** | 25 Claude skills worth installing: links, what each is for, and how to install and use it |
 | [site-prompt](./site-prompt) | **PROMPT** | The prompt behind karthikodes.com: build a site from one reference with Claude interviewing you first, and host it for $0 a month |
+| [coding](./coding) | **CODING** | 4 Claude Code plugins to install before you vibe-code: Supabase, Superpowers, frontend-design and Codex, with the install commands |
 
 Everything here is verifiable — sources linked inside each drop. No magic prompts, no 10x. — *AI Without The Hype*
